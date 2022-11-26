@@ -1,0 +1,22 @@
+.titulo{
+    background-color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.lista{
+    text-align:center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    list-style-position: inside;
+    list-style-type: square;
+}
+
+.imagenes{
+    height: 300px;
+}
+
+.lalista li{
+    font-style: italic;
+    background-color: brown;
+}
